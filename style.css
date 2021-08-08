@@ -1,0 +1,78 @@
+.container {
+  width: 1500px;
+  height: 500px;
+  opacity: 0.9;
+  background-image: radial-gradient(
+    rgb(250, 111, 152) 1.2px,
+    rgb(255, 189, 55) 0.8px
+  );
+  background-size: 15px 15px;
+}
+.tool-icon {
+  display: inline-block;
+}
+#js-icon {
+  width: 50px;
+}
+#css-icon {
+  width: 50px;
+  margin-left: 7px;
+}
+#html-icon {
+  width: 67px;
+}
+.message {
+  padding: 60px 0;
+  text-align: center;
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 300;
+  font-size: 35px;
+}
+.laptop {
+  margin-top: 100px;
+}
+.upper {
+  height: 200px;
+  width: 360px;
+  border-style: solid;
+  border-color: black;
+  border-width: 15px 10px 4px;
+  border-radius: 8px 8px 0 0;
+  display: block;
+  margin: 0 auto;
+  background-color: rgb(30, 41, 71);
+  color: rgb(54, 215, 212);
+}
+.lower {
+  height: 10px;
+  width: 460px;
+  border: solid black 1px;
+  border-radius: 2px 2px 12px 12px;
+  display: block;
+  margin: 0 auto;
+  background-color: rgb(189, 189, 189);
+}
+.col-6 {
+  text-align: center;
+}
+.learning {
+  margin-top: 20px;
+  font-family: "Righteous", cursive;
+  font-size: 30px;
+  display: inline-block;
+}
+.follow-me {
+  padding: 350px 12px;
+  font-size: 40px;
+  font-family: "Righteous", cursive;
+  line-height: 30px;
+}
+.fas {
+  padding: 15px 10px;
+}
+.twitter {
+  background-color: white;
+  border-radius: 30px;
+  width: 200px;
+  margin: 0 auto;
+}
